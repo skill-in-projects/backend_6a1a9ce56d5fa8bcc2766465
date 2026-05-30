@@ -1,5 +1,8 @@
 # FoodRoute - Backend API
 
+<!-- Skill-In backend workspace -->
+<!-- Healthcheck: 2026-05-30 -->
+
 ## Application Database
 
 **Application DB Connection String:** `postgresql://db_appdb_6a1a9ce56d5fa8bcc2766465_user:N%40oeHTwDTfOZqGrm%23AmXEIGF6LmeeM%2Ab@ep-old-rice-akk9mqxm.c-3.us-west-2.aws.neon.tech:5432/AppDB_6a1a9ce56d5fa8bcc2766465?sslmode=require`
